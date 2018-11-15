@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/DetailPopup/Default.aspx) (VB: [Default.aspx](./VB/DetailPopup/Default.aspx))
+* [Default.aspx.cs](./CS/DetailPopup/Default.aspx.cs) (VB: [Default.aspx](./VB/DetailPopup/Default.aspx))
+<!-- default file list end -->
 # ASPxGridView - Show a modal popup using the control in DetailRowTemplateContainer
 
 
