@@ -9,8 +9,7 @@ Imports System.Web.UI
 Imports System.Web.UI.WebControls
 Imports System.Web.UI.WebControls.WebParts
 Imports System.Web.UI.HtmlControls
-Imports DevExpress.Web.ASPxGridView
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Namespace DetailPopup
 	Partial Public Class _Default
@@ -34,7 +33,7 @@ Namespace DetailPopup
 			End If
 		End Sub
 
-		Protected Sub ASPxCallbackPanel1_Callback(ByVal source As Object, ByVal e As DevExpress.Web.ASPxClasses.CallbackEventArgsBase)
+		Protected Sub ASPxCallbackPanel1_Callback(ByVal source As Object, ByVal e As DevExpress.Web.CallbackEventArgsBase)
 
 			Dim pars() As String = e.Parameter.Split(";"c)
 			Session("ProductID") = pars(0)

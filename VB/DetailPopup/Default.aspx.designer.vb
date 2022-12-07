@@ -47,7 +47,7 @@ Namespace DetailPopup
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView
 
 		''' <summary>
 		''' AccessDataSource1 control.
@@ -74,7 +74,7 @@ Namespace DetailPopup
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxCallbackPanel1 As Global.DevExpress.Web.ASPxCallbackPanel.ASPxCallbackPanel
+		Protected ASPxCallbackPanel1 As Global.DevExpress.Web.ASPxCallbackPanel
 
 		''' <summary>
 		''' ASPxPopupControl1 control.
@@ -83,7 +83,7 @@ Namespace DetailPopup
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxPopupControl1 As Global.DevExpress.Web.ASPxPopupControl.ASPxPopupControl
+		Protected ASPxPopupControl1 As Global.DevExpress.Web.ASPxPopupControl
 
 		''' <summary>
 		''' ASPxComboBox1 control.
@@ -92,7 +92,7 @@ Namespace DetailPopup
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxComboBox1 As Global.DevExpress.Web.ASPxEditors.ASPxComboBox
+		Protected ASPxComboBox1 As Global.DevExpress.Web.ASPxComboBox
 
 		''' <summary>
 		''' AccessDataSource3 control.
